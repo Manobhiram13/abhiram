@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: phvpavankumar/blog-post-workflow@main
+      - uses: phvpavankumar/.github/blog-post-workflow@main
         with:
             feed_list: "https://ignitarium.com/gitlab-for-beginners/ , https://ignitarium.com/github-for-beginners/ , https://ignitarium.com/git-commands-for-beginners/"
