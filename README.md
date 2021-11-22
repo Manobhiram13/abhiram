@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=phvpavankumar&color=green&label=PROFILE+VIEWS)
+
+
 - 👋 Hi, I’m @phvpavankumar
 - 👀 I’m interested in AI and Machine Learning Related problems
 - 🌱 I’m currently Pursuing Masters in the field on Data Science
