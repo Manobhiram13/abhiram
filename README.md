@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kumarphv" target="blank"><img src="https://img.shields.io/twitter/follow/kumarphv?logo=twitter&style=for-the-badge" alt="kumarphv" /></a> </p>
 
-- 📫 How to reach me **phvpavankumar@gmail.com (or) https://www.linkedin.com/in/pavan-kumar-phv/**
+- 📫 How to reach me **phvpavankumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
