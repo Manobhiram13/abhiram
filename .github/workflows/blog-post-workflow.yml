@@ -9,9 +9,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: phvpavankumar/phvpavankumar/blog-post-workflow@main
+      - uses: actions/checkout@v2
+      - uses: phvpavankumar/blog-post-workflow@main
         with:
-          feed_list: "https://ignitarium.com/gitlab-for-beginners/ , https://ignitarium.com/github-for-beginners/ , https://ignitarium.com/git-commands-for-beginners/"
+            feed_list: "https://ignitarium.com/gitlab-for-beginners/ , https://ignitarium.com/github-for-beginners/ , https://ignitarium.com/git-commands-for-beginners/"
