@@ -9,7 +9,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">A passionate frontend Data Science developer from India, currently Pursuing Masters in the field on Artificial Intelligence and Data Science Interested in AI and Machine Learning Related problems.</h3>
+<h3 align="centre">A passionate frontend Data Science developer from India, currently working in Artificial Intelligence and Data Science. Interested in AI and Machine learning-related problems.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phvpavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="phvpavankumar" /> </p>
